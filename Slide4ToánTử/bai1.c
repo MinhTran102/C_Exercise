@@ -8,7 +8,6 @@ int main()
     a = a >> 2;
     if (a%2==1) {
         printf("Bit thu 3 la 1");
-        
     } 
         else {
             printf("Bit thu 3 la 0");
