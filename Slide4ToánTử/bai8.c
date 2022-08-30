@@ -1,0 +1,1 @@
+//Tìm bình phương của số nguyên

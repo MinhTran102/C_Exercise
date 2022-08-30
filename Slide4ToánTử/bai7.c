@@ -1,0 +1,1 @@
+//Tìm trung bình cộng của 4 số thực

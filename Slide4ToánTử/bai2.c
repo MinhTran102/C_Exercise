@@ -1,0 +1,1 @@
+//Đặt bit thứ 5 thành giá trị 1
