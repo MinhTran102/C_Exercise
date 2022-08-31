@@ -18,6 +18,7 @@ int main()
         if (count == 0 && i > 1)
             printf("%d ", i);
     }
+    return 0;
 }
 /*Nếu 1 số có nhiều ước hơn số nguyên tố thì một trong 
 các ước của nó phải nhỏ hơn hoặc bằng căn bậc hai của chính nó*/
