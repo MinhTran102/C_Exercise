@@ -1,0 +1,1 @@
+//Viết hàm cộng 2 số bằng con trỏ và gọi ra sử dụng ở int main.

@@ -1,0 +1,1 @@
+//Viết chương trình tìm kiếm phần tử của mảng bằng cách sử dụng con trỏ.

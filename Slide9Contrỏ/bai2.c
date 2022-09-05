@@ -1,0 +1,1 @@
+//Viết chương trình đối chiếu 2 chuỗi bằng cách sử dụng con trỏ.

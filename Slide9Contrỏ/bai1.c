@@ -1,0 +1,1 @@
+//Viết chương trình hiển thị chuỗi theo thứ tự ngược bằng cách sử dụng con trỏ.
